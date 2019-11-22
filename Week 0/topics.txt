@@ -1,0 +1,5 @@
+Concepts learned :-
+A. Bijective numeration, Radix/Base, Unary number system
+B. Representation of information (text,emojis,images(RGB),videos & animated GIFs,music(Notes,Duration,Value))
+C. Search algorithms : Linear search (w/ n=1), Linear search (w/ n=2), Binary search [w/ Graph & Pseudocode]
+D. Coding w/ scratch
